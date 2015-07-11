@@ -1,0 +1,33 @@
+.fsSlider {
+  overflow: hidden;
+  position: relative;
+  outline: 3px solid #000000;
+}
+.fsSlides, .fsSlides li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+}
+.fsSlide {
+  float: left;
+  display: block;
+}
+.fsSlider .navigation {
+  width: 45px;
+  height: 50px;
+  position: absolute;
+  cursor: pointer;
+  z-index: 9999999999999999;
+} 
+.fsSlider .navigation-previous {
+  background: url('../../../img/sliderLeft.png') no-repeat;
+}
+.fsSlider .navigation-next {
+  background: url('../../../img/sliderRight.png') no-repeat;
+}
+.fsSlideHtml {
+  position: absolute;
+  left: 0;
+  top: 0;
+}

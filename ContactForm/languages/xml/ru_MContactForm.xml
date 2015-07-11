@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <text name='contact_form'>
+    <ru>Форма обратной связи</ru>
+  </text>
+  <text name='contact_form_add'>
+    <ru>Создать форму</ru>
+  </text>
+  <text name='contact_form_codepage'>
+    <ru>Кодировка</ru>
+  </text>
+  <text name='contact_form_content_type'>
+    <ru>Тип контента</ru>
+  </text>
+  <text name='contact_form_send_mail_to'>
+    <ru>Слать сообщения на email</ru>
+  </text>
+  <text name='contact_form_message_template'>
+    <ru>Шаблон сообщения</ru>
+  </text>
+  <text name='contact_form_message_user_template'>
+    <ru>Шаблон сообщения для пользователя</ru>
+  </text>
+  <text name='contact_form_required_sample'>
+    <ru>Пример обязательного поля</ru>
+  </text>
+  <text name='contact_form_other_sample'>
+    <ru>Пример необязательного поля</ru>
+  </text>
+  <text name='contact_form_need_message_user'>
+    <ru>Высылать сообщение пользователю</ru>
+  </text>
+  <text name='contact_form_message_user_sample'>
+    <ru>Пример атрибута для определения поля email пользователя</ru>
+  </text>
+  <text name='contact_form_message_ajax'>
+    <ru>Использовать ajax</ru>
+  </text>
+  <text name='contact_form_footer_1'>
+    <ru>Дополнительные переменные для шаблона сообщения</ru>
+  </text>
+  <text name='contact_form_footer_2'>
+    <ru>Дата отправки сообщения</ru>
+  </text>
+  <text name='contact_form_footer_3'>
+    <ru>Время отправки сообщения</ru>
+  </text>
+  <text name='contact_form_footer_4'>
+    <ru>IP адрес отправителя сообщения</ru>
+  </text>
+  <text name='contact_form_footer_5'>
+    <ru>Дополнительные переменные для шаблона формы</ru>
+  </text>
+  <text name='contact_form_not_active'>
+    <ru>К сожалению отправка сообщений временно отключена</ru>
+  </text>
+  <text name='contact_form_send_ok'>
+    <ru>Ваше сообщение успешно отправлено</ru>
+  </text>
+  <text name='contact_form_send_err'>
+    <ru>Ошибка отправки сообщения</ru>
+  </text>
+</dictionary>

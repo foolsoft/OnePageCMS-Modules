@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <text name='ftp_client'>
+    <en>FTP client</en>
+  </text>
+  <text name='ftp_selectfile'>
+    <en>Select file!</en>
+  </text>
+  <text name='ftp_refresh'>
+    <en>Refresh</en>
+  </text>
+  <text name='ftp_create'>
+    <en>Create</en>
+  </text>
+  <text name='ftp_file'>
+    <en>File</en>
+  </text>
+  <text name='ftp_folder'>
+    <en>Folder</en>
+  </text>
+   <text name='ftp_file_name'>
+    <en>File name</en>
+  </text>
+  <text name='ftp_folder_name'>
+    <en>Folder name</en>
+  </text>
+  <text name='ftp_ff'>
+    <en>Select file or folder!</en>
+  </text>
+  <text name='ftp_download'>
+    <en>Download</en>
+  </text>
+  <text name='ftp_archive'>
+    <en>Select archive!</en>
+  </text>
+  <text name='ftp_unzip'>
+    <en>Extract Zip</en>
+  </text>
+  <text name='ftp_upload_files'>
+    <en>Upload files</en>
+  </text>
+  <text name='ftp_upload'>
+    <en>Upload</en>
+  </text>
+</dictionary>              

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <text name='contact_form'>
+    <en>Contact form</en>
+  </text>
+  <text name='contact_form_add'>
+    <en>Create form</en>
+  </text>
+  <text name='contact_form_codepage'>
+    <en>Charset</en>
+  </text>
+  <text name='contact_form_content_type'>
+    <en>Content type</en>
+  </text>
+  <text name='contact_form_send_mail_to'>
+    <en>Send messages to email</en>
+  </text>
+  <text name='contact_form_message_template'>
+    <en>Message template</en>
+  </text>
+  <text name='contact_form_message_user_template'>
+    <en>User message template</en>
+  </text>
+  
+  <text name='contact_form_required_sample'>
+    <en>Sample of required field </en>
+  </text>
+  <text name='contact_form_other_sample'>
+    <en>Sample of not required field</en>
+  </text>
+  <text name='contact_form_need_message_user'>
+    <en>Send message to user</en>
+  </text>
+  <text name='contact_form_message_user_sample'>
+    <en>Sample of attribute for email user field</en>
+  </text>
+  
+  <text name='contact_form_message_ajax'>
+    <en>Use ajax</en>
+  </text>
+  <text name='contact_form_footer_1'>
+    <en>Additional message template variables</en>
+  </text>
+  <text name='contact_form_footer_2'>
+    <en>Date of message sending</en>
+  </text>
+  <text name='contact_form_footer_3'>
+    <en>Time of message sending</en>
+  </text>
+  <text name='contact_form_footer_4'>
+    <en>IP address of sender</en>
+  </text>
+  <text name='contact_form_footer_5'>
+    <en>Additional form template variables</en>
+  </text>
+  <text name='contact_form_not_active'>
+    <en>Unfortunately sending messages temporarily disabled</en>
+  </text>
+  <text name='contact_form_send_ok'>
+    <en>Message was sent successfully</en>
+  </text>
+  <text name='contact_form_send_err'>
+    <en>Message wasn't sent</en>
+  </text>
+</dictionary>

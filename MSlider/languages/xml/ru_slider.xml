@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <text name='slides'>
+    <ru>Слайды</ru>
+  </text>
+  <text name='slider_add'>
+    <ru>Добавить слайдер</ru>
+  </text>
+  <text name='slide_add'>
+    <ru>Добавить слайд</ru>
+  </text>
+  <text name='slider_height'>
+    <ru>Высота</ru>
+  </text>
+  <text name='slider_width'>
+    <ru>Ширина</ru>
+  </text>
+  <text name='slider_interval'>
+    <ru>Частота смены</ru>
+  </text>
+  <text name='slider_seconds'>
+    <ru>сек.</ru>
+  </text>
+  <text name='slider_unit'>
+    <ru>Еденицы ширины</ru>
+  </text>
+  <text name='slider_navigation'>
+    <ru>Навигация по слайдам</ru>
+  </text>
+  <text name='slider_animation'>
+    <ru>Анимация</ru>
+  </text>
+</dictionary>  

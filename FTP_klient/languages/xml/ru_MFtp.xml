@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <text name='ftp_client'>
+    <ru>FTP клиент</ru>
+  </text>
+  <text name='ftp_selectfile'>
+    <ru>Укажите файл!</ru>
+  </text>
+  <text name='ftp_refresh'>
+    <ru>Обновить</ru>
+  </text>
+  <text name='ftp_create'>
+    <ru>Создать</ru>
+  </text>
+  <text name='ftp_file'>
+    <ru>Файл</ru>
+  </text>
+  <text name='ftp_folder'>
+    <ru>Папку</ru>
+  </text>
+  <text name='ftp_folder_name'>
+    <ru>Имя папки</ru>
+  </text>
+  <text name='ftp_file_name'>
+    <ru>Имя файла</ru>
+  </text>
+  <text name='ftp_ff'>
+    <ru>Укажите файл или папку!</ru>
+  </text>
+  <text name='ftp_download'>
+    <ru>Скачать</ru>
+  </text>
+  <text name='ftp_archive'>
+    <ru>Укажите архив!</ru>
+  </text>
+  <text name='ftp_unzip'>
+    <ru>Распаковать Zip</ru>
+  </text>
+  <text name='ftp_upload_files'>
+    <ru>Загрузить файлы</ru>
+  </text>
+  <text name='ftp_upload'>
+    <ru>Загрузить</ru>
+  </text>
+</dictionary>              

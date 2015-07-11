@@ -1,0 +1,17 @@
+.slide-delete {
+  position: absolute;
+  margin: 40px 0 0 10px;
+}
+.slide-setting {
+  position: absolute;
+  margin: 10px 0 0 10px;
+}
+.slide {
+  border: 1px solid #000;
+  margin: 5px 0;
+  padding: 5px;
+  overflow: hidden;
+}
+.slide-setting-container {
+  display: none;
+}

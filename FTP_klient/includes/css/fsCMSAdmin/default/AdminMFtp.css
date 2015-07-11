@@ -1,0 +1,51 @@
+.ftp-file, .ftp-folder {
+  width: 100px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  min-height: 32px;
+  background: url("../../../img/fsCMSAdmin/default/ftp-file.png") no-repeat scroll 34px 0px transparent;
+  text-align: center;
+  padding-top: 32px;
+  border-radius: 10px;
+}
+
+.ftp-folder {
+  background: url('../../../img/fsCMSAdmin/default/ftp-folder.png') no-repeat scroll 34px 0px transparent;
+}
+
+.server-ftp {
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 96%;
+  border: 1px #000 solid;
+  background: #E8E8E8;
+  -moz-box-shadow: 1px 1px 5px rgba(0,0,0,0.3) inset; 
+  -webkit-box-shadow: 1px 1px 5px rgba(0,0,0,0.3) inset; 
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.3) inset; 
+      
+}
+
+.ftp-btn {
+    border: 1px solid #000000;
+    cursor: pointer;
+    float: left;
+    color: #000;
+    font-weight: bold;
+    padding: 5px 20px;
+    text-align: center;
+}
+
+.ftp-btn:hover {
+  text-decoration: underline;
+}
+
+.ftp-btn a { color: #000; text-decoration: none; }
+
+.admin-content ul { float: left; margin: 0px; padding: 0px; }
+.admin-content ul li {background: #EEEEE0; display: none; position: absolute; list-style: none; clear: both;  }
+.admin-content ul:hover li { display: block; }
+.create-cat { margin-top: 30px; }
+.create-file { margin-top: 60px; }
+ul li .ftp-btn { width: 100px; }

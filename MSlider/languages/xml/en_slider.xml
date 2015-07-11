@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <text name='slides'>
+    <en>Slides</en>
+  </text>
+  <text name='slider_add'>
+    <en>Add slider</en>
+  </text>
+  <text name='slide_add'>
+    <en>Add slide</en>
+  </text>
+  <text name='slider_height'>
+    <en>Height</en>
+  </text>
+  <text name='slider_interval'>
+    <en>Frames interval</en>
+  </text>
+  <text name='slider_seconds'>
+    <en>sec.</en>
+  </text>
+  <text name='slider_unit'>
+    <en>Width unit</en>
+  </text>
+  <text name='slider_width'>
+    <en>Width</en>
+  </text>
+  <text name='slider_navigation'>
+    <en>Slide navigation</en>
+  </text>
+  <text name='slider_animation'>
+    <en>Animation</en>
+  </text>
+</dictionary>  
