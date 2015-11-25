@@ -6,7 +6,7 @@ class link_counter extends fsDBTableExtension
     parent::__destruct();
   }
   
-  function GetCount($id)
+  function GetClick($id)
   {
     $this->Select(array('count'))->Where('`id` = "'.$id.'"')->Execute();
     return $this->_result->count;

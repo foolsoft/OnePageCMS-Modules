@@ -22,6 +22,6 @@ class MLinkCounter extends cmsController
     if (!$param->Exists('id', true)) {
       return '';
     }
-    return $this->_table->GetCount($param->id);
+    return $this->_table->GetClick($param->id);
   }
 }
