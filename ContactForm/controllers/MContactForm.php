@@ -48,7 +48,7 @@ class MContactForm extends cmsController
     }
     
     $file = array('path' => array(), 'name' => array());
-    $countFile = count($_FILES[$this->_fileAttr]);
+    $countFile = isset($_FILES[$this->_fileAttr]) ? count($_FILES[$this->_fileAttr]) : 0;
     for ($i = 0; $i < $countFile; ++$i) {
       if ($_FILES[$this->_fileAttr][$i]['error'] == 0) {
         $file['path'][] = $_FILES[$this->_fileAttr][$i]['tmp_name'];
