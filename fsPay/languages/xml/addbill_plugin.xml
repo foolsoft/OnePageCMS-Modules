@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <text name='fsaddbill_newbill'>
+    <en>You have new bill #{0}. Total price {1}.</en>
+    <ru><![CDATA[
+        <b>Добрый день.</b><br />
+        Вам выставлен счет №{0}. Общая сумма платежа {1} руб.<br />
+        Для оплаты зайдите в Ваш личный кабинет на сайте <a href="{2}">{2}</a>.
+        <br /><br />Спасибо.
+    ]]></ru>
+  </text>
+  <text name='fsaddbill_newbilltitle'>
+    <en>New bill</en>
+    <ru>Вам выставлен счет</ru>
+  </text>
+  <text name='fsaddbill_needcheck'>
+    <en>Check input data</en>
+    <ru>Проверьте правильность данных</ru>
+  </text>
+  <text name='fsaddbill_create'>
+    <en>Create bill</en>
+    <ru>Создать счет</ru>
+  </text>
+  </dictionary>

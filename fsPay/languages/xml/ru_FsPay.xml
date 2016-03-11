@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <text name='fspay_err_param_count'>
+    <ru>Недостаточно параметров</ru>
+  </text>
+  <text name='fspay_err_invalid_param'>
+    <ru>Недопустимые параметры</ru>
+  </text>
+  <text name='fspay_err_invalid_pay_type'>
+    <ru>Данный тип оплаты на данный момент не поддерживается</ru>
+  </text>
+  <text name='fspay_inform_template'>
+    <ru>Шаблон сообщения о создании счета</ru>
+  </text>
+  <text name='fspay_mybills'>
+    <ru>Мои счета</ru>
+  </text>
+  <text name='fspay_ok_template'>
+    <ru>Шаблон сообщения об оплате счета</ru>
+  </text>
+  <text name='fspay_err_no_contact_data'>
+    <ru>Укажите контактные данные</ru>
+  </text>
+  <text name='fspay_pay'>
+    <ru>Платеж</ru>
+  </text>
+  <text name='fspay_pay_confirm'>
+    <ru>Подтверждение платежа</ru>
+  </text>
+  <text name='fspay_enter_phone'>
+    <ru>Введите Ваш номер телефона (10 цифр)</ru>
+  </text>
+  <text name='fspay_pay_for'>
+    <ru>Оплата счета</ru>
+  </text>
+  <text name='fspay_pays'>
+    <ru>Платежи</ru>
+  </text>
+  <text name='fspay_operation_type'>
+    <ru>Типы операций</ru>
+  </text>
+  <text name='fspay_add_operation'>
+    <ru>Добавить операцию</ru>
+  </text>
+  <text name='fspay_pay_ok'>
+    <ru>Платеж принят</ru>
+  </text>
+  <text name='fspay_order_ok'>
+    <ru>Ваш заказ принят</ru>
+  </text>
+  <text name='fspay_canceled'>
+    <ru>Отменен</ru>
+  </text>
+  <text name='fspay_create'>
+    <ru>Создание платежа</ru>
+  </text>
+  <text name='fspay_in_process'>
+    <ru>В процессе проведения</ru>
+  </text>
+  <text name='fspay_already_payed'>
+    <ru>Повторная попытка оплаты</ru>
+  </text>
+  <text name='fspay_payment_error'>
+    <ru>Ошибка платежа</ru>
+  </text>
+  <text name='fspay_err_unknown'>
+    <ru>Неизвестная ошибка</ru>
+  </text>
+  <text name='fspay_unknown_sum'>
+    <ru>Неверная сумма платежа</ru>
+  </text>
+  <text name='fspay_unknown_hash'>
+    <ru>Неверная контрольная сумма</ru>
+  </text>
+  <text name='fspay_unknown_wallet'>
+    <ru>Неверный номер кошелька</ru>
+  </text>
+  <text name='fspay_unknown_payment'>
+    <ru>Неизвестный номер счета</ru>
+  </text>
+  <text name='fspay_unknown_status'>
+    <ru>Неизвестный статус</ru>
+  </text>
+  <text name='fspay_unknown_operation'>
+    <ru>Неизвестная операция</ru>
+  </text>
+  <text name='fspay_sort_id'>
+    <ru>Сортировать по номеру счета</ru>
+  </text>
+  <text name='fspay_payment_number'>
+    <ru>Счет</ru>
+  </text>
+  <text name='fspay_date'>
+    <ru>Дата</ru>
+  </text>
+  <text name='fspay_payment_type'>
+    <ru>Тип оплаты</ru>
+  </text>
+  <text name='fspay_payment_system'>
+    <ru>Система оплаты</ru>
+  </text>
+  <text name='fspay_test_mode'>
+    <ru>Режим тестирования</ru>
+  </text>
+  <text name='fspay_check_registr'>
+    <ru>Проверка регистрации</ru>
+  </text>
+  <text name='fspay_payment_lifetime'>
+    <ru>Время действия счета, часов</ru>
+  </text>
+  <text name='fspay_wallet'>
+    <ru>Кошелек</ru>
+  </text>
+  <text name='fspay_operation'>
+    <ru>Операция</ru>
+  </text>
+  <text name='fspay_sum'>
+    <ru>Сумма</ru>
+  </text>
+  <text name='fspay_contacts'>
+    <ru>Контакты</ru>
+  </text>
+  <text name='fspay_comment'>
+    <ru>Комментарий</ru>
+  </text>
+  <text name='fspay_notify_email'>
+    <ru>Email для уведомлений</ru>
+  </text>
+  <text name='fspay_secret'>
+    <ru>Секретная комбинация</ru>
+  </text>
+  <text name='fspay_can_create_pays'>
+    <ru>Разрешить ручное создание платежей</ru>
+  </text>
+  <text name='fspay_main_settings'>
+    <ru>Общие настройки</ru>
+  </text>
+  <text name='fspay_system_settings'>
+    <ru>Настройки систем оплаты</ru>
+  </text>
+  <text name='fspay_system_message'>
+    <ru>Сообщение системы</ru>
+  </text>
+  <text name='fspay_sort_date'>
+    <ru>Сортировать по дате оплаты</ru>
+  </text>
+</dictionary>
