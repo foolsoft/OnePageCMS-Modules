@@ -15,11 +15,20 @@
   <text name='fspay_mybills'>
     <ru>Мои счета</ru>
   </text>
+  <text name='fspay_text_total_bill'>
+    <ru>Общая сумма сделок</ru>
+  </text>
   <text name='fspay_ok_template'>
     <ru>Шаблон сообщения об оплате счета</ru>
   </text>
   <text name='fspay_err_no_contact_data'>
     <ru>Укажите контактные данные</ru>
+  </text>
+  <text name='fspay_text_payed'>
+    <ru>Оплачено</ru>
+  </text>
+  <text name='fspay_text_notpayed'>
+    <ru>Не оплачено</ru>
   </text>
   <text name='fspay_pay'>
     <ru>Платеж</ru>
@@ -92,6 +101,12 @@
   </text>
   <text name='fspay_date'>
     <ru>Дата</ru>
+  </text>
+  <text name='fs_text_date_payed'>
+    <ru>Дата платежа</ru>
+  </text>
+  <text name='fs_text_date_created'>
+    <ru>Дата создания</ru>
   </text>
   <text name='fspay_payment_type'>
     <ru>Тип оплаты</ru>

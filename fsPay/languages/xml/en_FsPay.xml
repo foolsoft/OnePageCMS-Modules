@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <text name='fspay_err_param_count'>
+    <en>Недостаточно параметров</en>
+  </text>
+  <text name='fspay_err_invalid_param'>
+    <en>Недопустимые параметры</en>
+  </text>
+  <text name='fspay_err_invalid_pay_type'>
+    <en>Данный тип оплаты на данный момент не поддерживается</en>
+  </text>
+  <text name='fspay_inform_template'>
+    <en>Шаблон сообщения о создании счета</en>
+  </text>
+  <text name='fspay_mybills'>
+    <en>My bills</en>
+  </text>
+  <text name='fspay_text_total_bill'>
+    <en>Общая сумма сделок</en>
+  </text>
+  <text name='fspay_ok_template'>
+    <en>Шаблон сообщения об оплате счета</en>
+  </text>
+  <text name='fspay_err_no_contact_data'>
+    <en>Укажите контактные данные</en>
+  </text>
+  <text name='fspay_text_payed'>
+    <en>Payed</en>
+  </text>
+  <text name='fspay_text_notpayed'>
+    <en>Not payed</en>
+  </text>
+  <text name='fspay_pay'>
+    <en>Payment</en>
+  </text>
+  <text name='fspay_pay_confirm'>
+    <en>Подтверждение платежа</en>
+  </text>
+  <text name='fspay_enter_phone'>
+    <en>Введите Ваш номер телефона (10 цифр)</en>
+  </text>
+  <text name='fspay_pay_for'>
+    <en>Оплата счета</en>
+  </text>
+  <text name='fspay_pays'>
+    <en>Payments</en>
+  </text>
+  <text name='fspay_operation_type'>
+    <en>Типы операций</en>
+  </text>
+  <text name='fspay_add_operation'>
+    <en>Добавить операцию</en>
+  </text>
+  <text name='fspay_pay_ok'>
+    <en>Payment success</en>
+  </text>
+  <text name='fspay_order_ok'>
+    <en>Ваш заказ принят</en>
+  </text>
+  <text name='fspay_canceled'>
+    <en>Canceled</en>
+  </text>
+  <text name='fspay_create'>
+    <en>Payment creation</en>
+  </text>
+  <text name='fspay_in_process'>
+    <en>В процессе проведения</en>
+  </text>
+  <text name='fspay_already_payed'>
+    <en>Повторная попытка оплаты</en>
+  </text>
+  <text name='fspay_payment_error'>
+    <en>Payment error</en>
+  </text>
+  <text name='fspay_err_unknown'>
+    <en>Неизвестная ошибка</en>
+  </text>
+  <text name='fspay_unknown_sum'>
+    <en>Неверная сумма платежа</en>
+  </text>
+  <text name='fspay_unknown_hash'>
+    <en>Неверная контрольная сумма</en>
+  </text>
+  <text name='fspay_unknown_wallet'>
+    <en>Неверный номер кошелька</en>
+  </text>
+  <text name='fspay_unknown_payment'>
+    <en>Неизвестный номер счета</en>
+  </text>
+  <text name='fspay_unknown_status'>
+    <en>Неизвестный статус</en>
+  </text>
+  <text name='fspay_unknown_operation'>
+    <en>Неизвестная операция</en>
+  </text>
+  <text name='fspay_sort_id'>
+    <en>Сортировать по номеру счета</en>
+  </text>
+  <text name='fspay_payment_number'>
+    <en>Invoice</en>
+  </text>
+  <text name='fspay_date'>
+    <en>Date</en>
+  </text>
+  <text name='fs_text_date_payed'>
+    <en>Pay date</en>
+  </text>
+  <text name='fs_text_date_created'>
+    <en>Creation date</en>
+  </text>
+  <text name='fspay_payment_type'>
+    <en>Pay type</en>
+  </text>
+  <text name='fspay_payment_system'>
+    <en>Payment system</en>
+  </text>
+  <text name='fspay_test_mode'>
+    <en>Test mode</en>
+  </text>
+  <text name='fspay_check_registr'>
+    <en>Проверка регистрации</en>
+  </text>
+  <text name='fspay_payment_lifetime'>
+    <en>Время действия счета, часов</en>
+  </text>
+  <text name='fspay_wallet'>
+    <en>Wallet</en>
+  </text>
+  <text name='fspay_operation'>
+    <en>Операция</en>
+  </text>
+  <text name='fspay_sum'>
+    <en>Total</en>
+  </text>
+  <text name='fspay_contacts'>
+    <en>Contacts</en>
+  </text>
+  <text name='fspay_comment'>
+    <en>Comment</en>
+  </text>
+  <text name='fspay_notify_email'>
+    <en>Notification Email</en>
+  </text>
+  <text name='fspay_secret'>
+    <en>Secret</en>
+  </text>
+  <text name='fspay_can_create_pays'>
+    <en>Разрешить ручное создание платежей</en>
+  </text>
+  <text name='fspay_main_settings'>
+    <en>Common settings</en>
+  </text>
+  <text name='fspay_system_settings'>
+    <en>Настройки систем оплаты</en>
+  </text>
+  <text name='fspay_system_message'>
+    <en>System message</en>
+  </text>
+  <text name='fspay_sort_date'>
+    <en>Sort by pay date</en>
+  </text>
+</dictionary>
